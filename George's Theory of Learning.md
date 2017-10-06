@@ -18,36 +18,86 @@ More specifically, all call for some sort of harmony, some kind of positive rath
 
 These four theories also have in common that it matters greatly how a learner *feels about themselves*. More on this in coming weeks.
 
-# How to facilitate
+# Qualities of effective learners
 
-Some ways to promote learning…
+## Interest
+
+*Well-developed interests drive learning (Renninger & Hidi, 2016).*
+
+### In the classroom
+
 From Brown & Campione:
+
 - Modified jigsaw involving interest-based expert groups.
+
+## Productive Disciplinary Engagement
+
+*Problematizes content, gives students authority, holds students accountable to each other and to disciplinary norms, and provides relevant resources (Engle & Conant, 2002).*
+
+## Self-Explanation
+
+*Effective students use examples to generate **self-explanations** that link specific processes to broader principles (Chi et al., 1989).*
+
+## Help-seeking
+
+*Effective learners seek help when needed and not when not needed (Newman, 2008).*
+
+## Literate Communities/Writer Identities
+
+*In classrooms which support the development of positive writer identities, writing is not an **object** studied in itself, but rather a **tool** or **vehicle** for self-expression and interest-development/exploration. (Nolen, 2007).*
+
+### In the classroom
 
 From Boaler:
 
 - No tracking (in Phoenix Park)
 - Seeing math as a community of practice
 
+## Well-Structured Talk
+
+*Talk can be a powerful tool for learning when arguments built jointly across an entire classroom community over a prolonged period of time and upon shared premises, especially when such talk is accountable to (1) community, (2) standards of reasoning, and (3) knowledge (Resnick et al., 2010).*
+
+### In the classroom
+
+- A teacher makes sure to weave students' contributions to a discussion into a coherent whole, or better yet models this well enough that students begin to do the same.
+
 From Yamaguchi:
 
 - The teacher talks less than the students
 - Engaging community
 
-Strategies that have worked well for me:
+Strategies that have worked for both me and a classmate:
 
-- Having an environment structured to support me in acting in accordance with my will and learning goals.
+- Students talking more than teachers
 
-For a classmate:
+## Self-Beliefs and Expectations
+
+*What you believe you're good at strongly informs what you value being good at and subsequently invest into getting better at (Wigfield & Eccles, 2002).*
+
+### In the classroom
+
+Strategies that have worked well for a classmate:
 
 - Teachers having high expectations because it's inspiring to know what's possible ("I must be able to do this if my teacher thinks I can")
 
-And for both:
+## Goal-setting
 
-- Feeling agency and the *rationale* for learning something—a sense of not just "why is this important to learn" (in the abstract) but "why is this important for *me* to learn." Otherwise requests for students' time and attention are easily (and not incorrectly) reduced to "how can I get this done [if it is being "required" of me] with minimal wasted effort?"
-- Students talking more than teachers
+Good goal-setting is a cyclical process that involves forethought, performance, and then self-reflection. Performance ("outcome"-oriented) goals are ineffective on their own; they are most effective when paired with learning ("strategy"-oriented) goals (Zimmerman, 2008).
 
-"Pedagogy" is how to teach or how to facilitate learning.
+### In the classroom
+
+Strategies that have worked well for me:
+
+- Having an environment structured to support me in acting in accordance with my will and learning goals.
+- Working on "strategy" goals, not just "outcome" goals (Zimmerman 2008).
+
+Strategies that have worked for both me and a classmate:
+
+- Feeling agency and the *rationale* for learning something—a sense of not just "why is this important to learn" (in the abstract) but "why is this important for *me* to learn." Otherwise requests for students' time and attention are easily (and not incorrectly) reduced to "how can I get this done [if it is being "required" of me] with minimal wasted effort?" *Goals set for students by other individuals than the student themselves must be accepted by the student, and this is more likely to happen when the goal has a plausible rationale (Zimmerman 2008).*
+
+# Pedagogy 
+
+Is how to teach or how to facilitate learning.
 
 "Good pedagogy" often consists of the following principles, even when it varies greatly:
 
