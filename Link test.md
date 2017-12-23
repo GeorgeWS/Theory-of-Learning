@@ -1,0 +1,1 @@
+This is a test of linking with double brackets to [[George's Theory of Learning]] on GitHub.
